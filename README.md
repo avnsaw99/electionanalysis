@@ -1,4 +1,4 @@
-# election analysis
+# Election Analysis
 Code: Python
 
 
