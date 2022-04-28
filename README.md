@@ -1,2 +1,4 @@
-# electionananalysis
-Using Python
+# election analysis
+Code: Python
+
+
